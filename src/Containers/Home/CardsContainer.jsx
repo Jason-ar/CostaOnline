@@ -21,6 +21,6 @@ const HomeServiciosContainer = () => {
         </div>
 
     )
-}
+};
 
 export { HomeServiciosContainer };

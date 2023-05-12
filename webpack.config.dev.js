@@ -64,8 +64,8 @@ module.exports = {
       "@Data": path.resolve(__dirname, "src/Data/"),
       "@Pages": path.resolve(__dirname, "src/Pages/"),
       "@Templates": path.resolve(__dirname, "src/Templates/"),
-      "@Icons": path.resolve(__dirname, "src/assets-v1/icon/"),
-      "@Images": path.resolve(__dirname, "src/assets-v1/img/"),
+      "@Icons": path.resolve(__dirname, "src/Assets/Icon/"),
+      "@Images": path.resolve(__dirname, "src/Assets/Img/"),
       "@styles": path.resolve(__dirname, "src/styles/"),
     }
   },

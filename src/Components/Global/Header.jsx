@@ -7,6 +7,6 @@ const Header = () => {
             <Navbarr />
         </div>
     )
-}
+};
 
 export { Header };
