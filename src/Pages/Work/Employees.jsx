@@ -11,7 +11,7 @@ const Employees = () => {
         <div className="container text-center justify-content-center align-items-center h-100">
             <h1>Costa Empleos</h1>
             <br></br>
-            <p>Subí tu perfil laboral, y encontrá trabajo más rápido.</p>
+            <p>Subí tu perfil, encontrá trabajo más rápido.</p>
             <Button as="a" variant="primary" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSepbuti9X4GA9yzEK_9nQ9l9rFFHB0JcUoUg08TbIhaOvp0Qg/viewform?usp=sf_link">
                 Subir perfil
             </Button>
